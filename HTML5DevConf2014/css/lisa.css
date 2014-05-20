@@ -1,0 +1,22 @@
+
+.reveal h1 {
+  
+    font-size: 3em;
+}
+
+.reveal h1, .reveal h2, .reveal h3 {
+    word-break:keep-all;   
+    word-wrap:normal;
+    -moz-hyphens: none;
+}
+
+.reveal section img {
+    border: none;  
+    box-shadow: none;
+    background:none;
+}
+
+.reveal h2 {
+    font-size: 1.8em;
+    text-transform: none;
+}
